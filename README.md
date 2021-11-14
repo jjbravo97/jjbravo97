@@ -1,7 +1,7 @@
 ### Hello! I'm JJ Bravo 👋 
+ 
 
-
-## Some of the things I am into..
+## Some of the things I like to learn about...
 
 - Data Science 
 - Meditation
